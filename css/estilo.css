@@ -1,0 +1,24 @@
+.navbar{
+    background-color: black;
+}
+
+.logotipo{
+    width: 150px;
+    height: 150px;
+}
+
+.nav-link{
+    color: floralwhite;
+    align-items: right;
+}
+
+img{
+    height: 600px;
+    width: 100px;
+}
+
+.principal{
+    height: 400px;
+    width: 354px;
+
+}
